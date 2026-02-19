@@ -1,3 +1,4 @@
+// classe scontrino
 
 public class Scontrino {
 private int numMacchina;
@@ -40,3 +41,4 @@ System.out.println(s1);
 	}
 
 }
+
